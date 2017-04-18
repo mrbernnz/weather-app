@@ -1,0 +1,11 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "simple weather app",
+  "main": "index.js",
+  "author": "mrbernnz",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
