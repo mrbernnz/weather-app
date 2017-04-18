@@ -1,11 +1,17 @@
 {
   "name": "weather-app",
   "version": "1.0.0",
-  "description": "simple weather app",
-  "main": "index.js",
+  "description": "Simple Weather App",
+  "main": "app.js",
+  "engines": {
+    "node": "6.10.2",
+    "npm": "3.10.10"
+  },
+  "repository": "mrbernnz/weather-app",
+  "bugs": "mrbernnz/weather-app/issues",
   "author": "mrbernnz",
   "license": "MIT",
   "dependencies": {
-    "request": "^2.81.0"
+    "axios": "^0.16.1"
   }
 }
